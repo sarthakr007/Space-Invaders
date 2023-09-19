@@ -1,5 +1,5 @@
 # Space-Invaders
-Space Invaders is a shooter game in which the player fires at aliens overhead by moving a laser weapon across the bottom of the screen. As a group, the aliens travel left and right, shifting downward as they approach the screen’s edge. The objective is to shoot all of the aliens to death. The game finishes quickly if the invaders reach the bottom of the screen while the player has three lives.
+Space Invaders is a shooter game in which the player fires at aliens overhead by moving a laser weapon across the bottom of the screen. As a group, the aliens travel left and right, shifting downward as they approach the screen’s edge. The objective is to shoot all of the aliens to death. The game finishes quickly if the invaders reach the bottom of the screen while the player has five lives.
 
 <img width="1197" alt="Screenshot 2023-09-20 at 1 54 49 AM" src="https://github.com/sarthakr007/Space-Invaders/assets/92045949/b7bc2ede-f504-4022-9e76-fcf3c25dc409">
 
